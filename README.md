@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hej, jestem Szymon
 
-<!--
-**Maki2037/Maki2037** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Programuję i tworzę narzędzia związane z Minecraftem.  
+🔥 Uczę się C++ i rozwijam swoje projekty krok po kroku.
 
-Here are some ideas to get you started:
+## 🔧 Technologie
+C++ • Skript  
+VS Code • Git • Linux:(Zorinos,cachyos)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 Zainteresowania
+Minecraft • FS25 • automatyzacja • boty • mody
+
+## 📫 Kontakt
+Discord: **Popokio2**
