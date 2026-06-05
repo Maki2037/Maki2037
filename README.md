@@ -1,14 +1,16 @@
-# 👋 Hej, jestem Szymon
+👋 Hej, jestem Szymon
 
-💻 Programuję i tworzę narzędzia związane z Minecraftem.  
-🔥 Uczę się C++ i rozwijam swoje projekty krok po kroku.
+💻 Jestem początkującym programistą, który tworzy własne narzędzia i projekty.
 
-## 🔧 Technologie
-C++ • Skript  
-VS Code • Git • Linux:(Zorinos,cachyos)
+🔥 Uczę się C++ i rozwijam swoje umiejętności krok po kroku.
+🔧 Technologie
 
-## 🎮 Zainteresowania
-Minecraft • FS25 • automatyzacja • boty • mody
+C++ • Python
 
-## 📫 Kontakt
-Discord: **Popokio2**
+Zed • Git • Linux (CachyOS)
+🎮 Zainteresowania
+
+programowanie • AI • automatyzacja • boty • FS25 • mody • technologia
+📫 Kontakt
+
+Discord: Popokio2
