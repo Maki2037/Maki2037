@@ -2,7 +2,7 @@
 
 💻 Jestem początkującym programistą, który tworzy własne narzędzia i projekty.
 
-🔥 Uczę się C++ i rozwijam swoje umiejętności krok po kroku.
+🔥 Uczę się Python i rozwijam swoje umiejętności krok po kroku.
 🔧 Technologie
 
 C++ • Python
@@ -10,7 +10,7 @@ C++ • Python
 Zed • Git • Linux (CachyOS)
 🎮 Zainteresowania
 
-programowanie • AI • automatyzacja • boty • FS25 • mody • technologia
+programowanie • AI • automatyzacja • FS25 • mody • technologia
 📫 Kontakt
 
 Discord: Popokio2
